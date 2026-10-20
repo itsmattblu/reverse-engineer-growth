@@ -25,7 +25,7 @@ Quick look at [company]'s funnel.
 
 Found something good? Post it and tag [@itsmattblu](https://x.com/itsmattblu).
 
-Made by [Parsly](https://parsly.to). Free, nothing else to install, no account.
+Made by [Parsly](https://parsly.to). Free, nothing else to install, no account. More, including a real example report: [parsly.to/reg](https://parsly.to/reg/).
 
 ## What it does for you
 
