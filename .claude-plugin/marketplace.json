@@ -1,0 +1,14 @@
+{
+  "name": "reg",
+  "description": "REG by Parsly: reverse-engineer growth. Free Claude Code skills to find out why something is working, from public evidence.",
+  "owner": {
+    "name": "Parsly",
+    "url": "https://parsly.to"
+  },
+  "plugins": [
+    {
+      "name": "reg",
+      "source": "./"
+    }
+  ]
+}
