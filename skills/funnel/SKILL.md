@@ -36,6 +36,10 @@ Then ask the person how deep to go, with what each level covers and roughly how 
 
 If the request already says ("quick look at…", "go deep on…"), skip the question. Keep the question to one short message.
 
+Two variations to handle on purpose:
+- **Comparing companies** ("compare A and B"): run the same map for each at the same depth, then add a side-by-side table of the stages and a short "where they differ".
+- **The person's own business** ("I sell X at Y; where could I beat them?"): keep their product and price in mind throughout, and make "What to take from it" specific to them: what to copy, and where the competitor is weakest against their offer.
+
 ## 2. The map, and when you're done
 
 The funnel has these stages. Your job is to fill every row with evidence, or mark it **not visible** with the reason and what would show it. This is the definition of done: don't write the report while a row is blank, and don't stop at the first believable story. The best findings usually come late, from the places people don't think to look (the login link, the code, the tracking tags on ad links).
@@ -85,6 +89,8 @@ Then put the map together yourself and do the skeptic pass (below) before writin
 
 Go through the map row by row:
 
+- **Check it against [patterns.md](references/patterns.md):** the tricks and tactics that keep turning up (creator ads, a page per traffic source, the quiz intercept, staged acceptance, "free" with the card up front, lock-in, the white-label underneath…). Name each one you find, with its evidence; a pattern that's on the list but not visible doesn't need mentioning.
+
 - Any blank row? Fill it or mark it **not visible** with why.
 - Every number: whose is it (theirs, a register's, your estimate), and when?
 - Claims that disagree with each other (customer counts that change from page to page, "recently started" copy running for a year, testimonials that look like placeholders)? Those are findings; report them.
@@ -110,6 +116,9 @@ Save it as `parsly/funnels/<YYYY-MM-DD>-<company>/report.md` and show it in the 
 
 ## Funnel pages
 The path in the order a customer clicks through it, each a live link: ad (an Ad Library link) → landing page (every version) → form or sign-up → each page it can lead to (booking, sales video, "we'll call you", thank-you, checkout) → login. Note pages that exist but aren't linked from anywhere (found in the sitemap or code), and ones that are gone.
+
+## Patterns found
+- **<Pattern name, as in the pattern list>**: <what you saw, with its evidence>.
 
 ## How they find customers
 <Channels, ranked by how much evidence there is for each. The ad angles that last longest, with a short quoted example each.>

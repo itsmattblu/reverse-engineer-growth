@@ -1,7 +1,7 @@
 {
   "name": "reg",
   "displayName": "REG by Parsly",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Reverse-engineer growth: see something that's working and find out why. Map how any company gets and keeps customers (its ads and where they lead, its sign-up, follow-up, pricing, upsells and referrals) from public evidence, with the evidence for every finding and a list of what couldn't be seen.",
   "author": { "name": "Parsly", "url": "https://parsly.to" },
   "homepage": "https://parsly.to",
