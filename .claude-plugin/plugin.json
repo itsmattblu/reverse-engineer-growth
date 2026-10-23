@@ -1,10 +1,29 @@
 {
   "name": "reg",
   "displayName": "REG by Parsly",
-  "version": "0.2.0",
-  "description": "Reverse-engineer growth: see something that's working and find out why. Map how any company gets and keeps customers (its ads and where they lead, its sign-up, follow-up, pricing, upsells and referrals) from public evidence, with the evidence for every finding and a list of what couldn't be seen.",
-  "author": { "name": "Parsly", "url": "https://parsly.to" },
+  "version": "0.3.0",
+  "description": "Reverse-engineer growth: see something that's working and find out why. Three skills: competitor-funnel (how any company gets and keeps customers: its ads and where they lead, sign-up, pricing, upsells), creator-growth (how a creator grew without ads, platform by platform over time, and a plan to copy) and content-plan (a weekly brief and post drafts modelled on what's working). From public evidence, with the evidence for every finding and a list of what couldn't be seen.",
+  "author": {
+    "name": "Parsly",
+    "url": "https://parsly.to"
+  },
   "homepage": "https://parsly.to",
   "license": "MIT",
-  "keywords": ["reverse-engineer", "growth", "funnel", "ads", "competitor research", "business model", "marketing", "research"]
+  "keywords": [
+    "reverse-engineer",
+    "growth",
+    "funnel",
+    "ads",
+    "competitor research",
+    "audience growth",
+    "build in public",
+    "content strategy",
+    "business model",
+    "marketing",
+    "research",
+    "competitor analysis",
+    "growth strategy",
+    "content plan",
+    "content calendar"
+  ]
 }

@@ -45,7 +45,7 @@ Separate landing pages for each podcast, partner, audience or ad angle, often un
 
 ### A visitor classifier
 Code that sorts each visitor into groups by where they arrived from (paid search, social, a competitor's site, returning).
-- **Spot it:** in the site's code, words like `classify`, `audience`, `segment` next to a list of referrers or competitor names.
+- **Spot it:** in the site's code, words like `classify`, `creator-growth`, `segment` next to a list of referrers or competitor names.
 - **Means:** the page changes with the visitor. Which groups exist tells you which channels and competitors they care about.
 
 ### Two funnels behind one page
@@ -158,6 +158,21 @@ The event their site reports to the ad platforms at a given step (a lead, a tria
 An affiliate or referral payout per customer.
 - **Spot it:** partner and affiliate pages, referral terms.
 - **Means:** a business paying £50 per customer to partners will pay roughly that to win one through ads too.
+
+### The competitor typo page
+A page made for people who mistype a rival's name.
+- **Spot it:** a page titled "[rival-like name]: maybe you meant [us]?", often unlinked, found in the sitemap or the code's route list, sometimes tagged as such.
+- **Means:** they're harvesting a competitor's brand searches cheaply, without ads.
+
+### The free extension as a feeder
+A free browser extension or small app for the same users, promoting the paid product.
+- **Spot it:** a "by the makers of" page, a store listing from the same developer, a link or embed inside the free tool carrying its own source tag.
+- **Means:** a cheap, lasting channel; its user count is a size clue for the audience.
+
+### Source tags on every free surface
+Each tool, page, shared link and profile carries its own campaign tag (`?src=`, `typ_source=`, `ref=`).
+- **Spot it:** a list of source values in the site's code; call-to-action links tagged per button.
+- **Means:** the tag list is their map of channels, and the business grows on owned surfaces rather than ads.
 
 ### The founder's audience
 A founder with a channel, course or paid community teaching others to run the same kind of business.
