@@ -139,8 +139,11 @@ Save it as `parsly/creators/<YYYY-MM-DD>-<name>/report.md` and show it in the co
 
 **Level:** <Light/Medium/Deep> · **Checked:** <date> · **Data:** <public web only / with Parsly: N posts across M platforms> · **Confidence:** <high/medium/low, one reason>
 
+## Who they are
+<Always first, for a reader who has never heard of them: two or three plain sentences on who they are and what they do (their products or work, where they post, anything they're known for), each fact from their own pages, posts or the public record. No net worth or guessed income.>
+
 ## The short version
-<Three or four plain sentences: who they are, where they grew and for how long, the one thing that drove it, and whether the audience buys. Someone who reads only this should know what to copy.>
+<Three or four plain sentences: where they grew and for how long, the one thing that drove it, and whether the audience buys. Someone who reads only this should know what to copy.>
 
 ## The engine
 <The repeated move that did several times better than their usual, with 2–3 linked examples and the numbers against their usual. If it couldn't be measured, the best hypothesis and how to check it.>
